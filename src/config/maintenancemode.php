@@ -7,7 +7,7 @@ return [
      *
      * @var string
      */
-    'view' => 'maintenancemode::app-down',
+    'view-page' => 'maintenancemode::app-down',
 
     /**
      * Include CSS styles with the optional notification view
